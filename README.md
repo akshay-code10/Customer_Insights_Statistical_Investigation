@@ -95,45 +95,6 @@ The project includes:
 
 ---
 
-## Key Business Insights
-
-### 1. Education and Spending Behavior
-
-Customers with higher education levels showed slightly higher average monthly spending compared to other groups.
-
-#### Recommendation
-Target educated customer segments with premium offers and personalized marketing campaigns.
-
-### 2. Gender Has Minimal Impact on Spending
-
-Statistical testing showed no significant difference in spending behavior across genders.
-
-#### Recommendation
-Focus more on customer behavior and engagement instead of gender-based targeting.
-
-### 3. State-Wise Spending Differences
-
-Certain states demonstrated higher average spending patterns than others.
-
-#### Recommendation
-Optimize regional marketing strategies based on state-wise customer performance.
-
-### 4. Age and Customer Activity
-
-Correlation analysis indicated almost no relationship between age and customer engagement activity.
-
-#### Recommendation
-Build engagement strategies using behavioral patterns rather than age segmentation.
-
-### 5. Customer Re-Engagement Opportunity
-
-Many customers showed long gaps since their last interaction with the company.
-
-#### Recommendation
-Use re-engagement campaigns, personalized emails, and loyalty programs to improve retention.
-
----
-
 ## Learning Outcomes
 
 This project helped strengthen practical knowledge of:
