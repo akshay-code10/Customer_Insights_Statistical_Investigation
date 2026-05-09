@@ -154,7 +154,7 @@ This statistical investigation revealed that customer behavior is influenced mor
 ---
 
 ## 📁 Files Included
- Python RFM Analysis Notebook - [Pyhton file blob:https://github.com/7ba5678a-4417-4fbd-af3b-9d9325d51534](https://github.com/akshay-code10/Customer-Segment--RFM/blob/main/Customer_Segment%20_RFM.ipynb)
+ Customer-Insights-Statistical-Investigation Notebook - [https://github.com/akshay-code10/Customer_Insights_Statistical_Investigation/blob/main/Customer_Insights_Statistical_Investigation.ipynb.ipynb)
 
 
 ---
